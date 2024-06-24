@@ -1,1 +1,3 @@
 # DietCalculator
+Maganage Diet
+Fitness
